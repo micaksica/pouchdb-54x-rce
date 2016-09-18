@@ -1,0 +1,20 @@
+{
+  "name": "express-pouchdb-ssjs-example",
+  "version": "1.0.0",
+  "main": "app.js",
+  "keywords": ["security", "injection", "poc"],
+  "author": "micaksica",
+  "description": "express-pouchdb / pouchdb SSJS injection to RCE vulnerability PoC",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express-pouchdb": "1.0.6",
+    "pouchdb": "5.4.5",
+    "express": "4.14.0"
+  },
+  "homepage": "https://github.com/micaksica/",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/micaksica/pouchdb-ssjs/"
+  }
+}
+
